@@ -1,0 +1,2 @@
+2020-09-27T23:13:26+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12430032 bytes) in /Applications/MAMP/htdocs/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+
